@@ -1,2 +1,6 @@
-# list-manager-web
-List management app for web
+# List Management App
+A productivity focused list management app.
+
+
+cra-template-must-have-libraries
+zzz
